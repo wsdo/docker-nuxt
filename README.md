@@ -1,3 +1,5 @@
+# use  nuxt express template
+
 # docker-nuxt
 
 > docker-nuxt
@@ -11,3 +13,5 @@ $ docker build -t nuxt-demo .
 # serve at localhost:8080
 $ docker run -dt -p 8080:3000 nuxt-p
 
+
+![](http://opvxi63vk.bkt.clouddn.com/WechatIMG17.png)
