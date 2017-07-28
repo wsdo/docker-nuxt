@@ -15,4 +15,4 @@ $ docker run -dt -p 8080:3000 nuxt-p
 
 ``` 
 
-![](./conect.png)
+![](./connect.png)
