@@ -14,4 +14,9 @@ $ docker build -t nuxt-demo .
 $ docker run -dt -p 8080:3000 nuxt-p
 
 ``` 
+
+author
+blog:http://blog.shudong.wang/
+github: wsdo
+email: wsd312@163.com
 ![](./connect.png)
