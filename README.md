@@ -14,4 +14,4 @@ $ docker build -t nuxt-demo .
 $ docker run -dt -p 8080:3000 nuxt-p
 
 
-![](http://opvxi63vk.bkt.clouddn.com/WechatIMG17.png)
+![](./conect.png)
