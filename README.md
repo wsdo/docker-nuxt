@@ -16,3 +16,4 @@ $ docker run -dt -p 8080:3000 nuxt-p
 ``` 
 
 ![](./connect.png)
+![](http://opvxi63vk.bkt.clouddn.com/WechatIMG17.png)
