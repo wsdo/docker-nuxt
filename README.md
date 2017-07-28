@@ -13,5 +13,6 @@ $ docker build -t nuxt-demo .
 # serve at localhost:8080
 $ docker run -dt -p 8080:3000 nuxt-p
 
+``` 
 
 ![](./conect.png)
